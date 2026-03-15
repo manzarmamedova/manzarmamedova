@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **backend projects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java and Spring boot **
 
 - 📫 How to reach me **manzarmamedova.work@gmail.com**
 
